@@ -4,6 +4,8 @@
   "plugins": [
     {
       "name": "minecraft-plugin",
+      "displayName": "Minecraft Plugin",
+      "category": "development",
       "source": "./",
       "description": "Creates ready-to-build Minecraft plugin projects (Spigot/Paper, Java, Maven or Gradle) for Minecraft 1.8 to the latest version."
     }

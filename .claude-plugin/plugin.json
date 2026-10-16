@@ -1,8 +1,14 @@
 {
   "name": "minecraft-plugin",
+  "displayName": "Minecraft Plugin",
   "description": "Creates ready-to-build Minecraft plugin projects (Spigot/Paper, Java, Maven or Gradle) for Minecraft 1.8 to the latest version, then builds and verifies them.",
-  "version": "1.0.0",
-  "author": { "name": "Parsa3323" },
+  "version": "1.1.0",
+  "author": {
+     "name": "Parsa3323",
+     "url": "https://github.com/Parsa3323"
+     },
   "license": "MIT",
+  "homepage": "https://github.com/Parsa3323/minecraft-plugin-skill",
+  "repository": "https://github.com/Parsa3323/minecraft-plugin-skill",
   "keywords": ["minecraft", "spigot", "paper", "bukkit", "java", "maven", "gradle"]
 }
